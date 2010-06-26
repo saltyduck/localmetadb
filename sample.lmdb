@@ -1,0 +1,8 @@
+# my custom modules
+http://mydist.mydomain/dist/My-Module-2.11.tar.gz
+http://mydist.mydomain/dist/My-Module2-0.45.tar.gz
+
+# local patched modules
+http://mydist.mydomain/dist/Class-DBI-1.01.tar.gz
+http://mydist.mydomain/dist/Class-DBI-Loader-0.11.tar.gz
+
